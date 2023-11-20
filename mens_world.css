@@ -1,0 +1,594 @@
+.font img {
+    margin-left: 70%;
+    font-weight: 100;
+    width: 23%;
+}
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    margin-left: 2%;
+    width: 60%;
+    margin-top: -3%;
+    
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px; 
+}
+.nav-list {
+    display: flex; 
+}
+.nav-item {
+    margin-right: 10px; 
+}
+.nav-item a {
+    text-decoration: none; 
+    color: black;    
+}
+.nav-item a:hover {
+    transition:ease-in;
+}
+.vd {
+    width: 100%;
+    display: flex;
+}
+video {
+    width: 100%;
+}
+#pio a{
+    color: red;
+}
+.start p{
+     margin-left: 3%;
+     font-size: 40px;
+     font-weight: bold;
+     color: gray;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+.bgr img{
+    width: 30%;
+    margin-left: 4%;
+    /* margin-top: -10%; */
+}
+/* .bgr  img:hover{
+    scale: 110%;
+    transition: 0.4s;
+} */
+
+.bgrr img {
+    margin-left: 52%;
+    margin-top: 5%;
+    width: 40%;
+}
+.ccv p{
+    position: relative;
+    margin-left: 40%;
+    font-size: 8vh;
+    margin-top: -15%;
+    transform: rotate(90g);
+    writing-mode: vertical-lr;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgba(219, 52, 52, 0.568);
+}
+.desi p{
+    margin-left: 51%;
+    margin-top: -50%;
+    font-size: 8vh;
+    font-weight: 100;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(63, 63, 63);
+}
+.qou p{
+   font-weight: 100;
+   width: 30%;
+   margin-left: 4%;
+   margin-top: -17%;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.llo img {
+    margin-top: -53%;
+    margin-left: 68%;
+    width: 5%;
+    display: flex;
+}
+.ss img {
+    width: 100%;
+    display: flex;
+    margin-top: 55%;
+}
+.email-container {
+    text-align: center;
+    margin: 100px auto;
+    width: 300px;
+}
+.email-input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    /* border-radius: 4px; */
+}
+.email-input:focus {
+    outline: none;
+    border-color: #575757;
+}
+.submit-button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor:grab;
+}
+.submit-button:hover {
+    background-color: red;
+}
+.hun img{
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.man p{
+    margin-left: 77%;
+    font-size: 38px;
+    margin-top: -25%;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+.kkj p{
+    margin-left: 50%;
+    margin-top: 25%;
+    font-size: 4vh;
+    font-weight: 100;
+  
+    
+}
+.kkj p a{
+    color: #b89a3b;
+    text-decoration: none;
+}
+.rre img{
+    margin-left: 20%;
+    width: 60%;
+    margin-top: -17%;
+}
+.uup img{
+    width: 30%;
+    position: relative;
+    margin-top: -29%;
+}
+.loog{
+    height: 50%;
+    width: 100%;
+}
+.loog img{
+    margin-left: 5%;
+}
+.wri h6{
+    position: relative;
+    margin-left: 29%;
+    margin-top: -6%;
+    font-size: 12px;
+    font-weight: 200;
+    color: red;
+}
+.dv a{
+    margin-left: 25%;
+    color: black;
+}
+.nuum h5{
+    position: relative;
+    margin-left: 55%;
+    margin-top: -5%;
+    font-weight: 200;
+    color: red;
+}
+.phone{
+    margin-left: 54%;
+    font-size: 3vh;
+    color: #333;
+    position: relative;
+}
+.foll h5{
+    margin-left: 75%;
+    position: relative;
+    margin-top: -6%;
+    font-weight: 200;
+}
+.face a{
+    margin-left: 75%;
+    color: black;
+    margin-top: 5%;
+    position: relative;
+    font-weight: bold;
+    text-decoration: none;
+}
+.face a text:hover{
+    color: blueviolet;
+    transition: color 1s;
+}
+.inst a{
+    margin-left: 75%;
+    color: black;
+    position: relative;
+    font-weight: bold;
+    text-decoration: none;     
+}
+.trm h5{
+    margin-left: 4%;
+    font-weight: 100;
+}
+.f h5{
+    margin-left: 20%;
+    margin-top: -3%;
+    font-weight: 100;
+}
+.paa p{
+    margin-left: 3%;
+    width: 90%;
+    height: 3%;
+    font-size: 10px;
+    margin-top: 3%;
+}
+.retu h5{
+    margin-left: 30%;
+    margin-top: -3%;
+    font-weight: 100;
+}
+.s img {
+    width: 100%;
+    display: flex;
+    margin-top: 54%;
+}
+@media(max-width:950px){
+    .foll h5 {
+        margin-left: 75%;
+        position: relative;
+        margin-top: -8%;
+        font-weight: 200;
+    }
+    .nuum h5 {
+        position: relative;
+        margin-left: 55%;
+        margin-top: -7%;
+        font-weight: 200;
+        color: red;
+    }
+    .retu h5 {
+        margin-left: 30%;
+        margin-top: -4%;
+        font-weight: 100;
+    }
+    .f h5 {
+        margin-left: 20%;
+        margin-top: -4%;
+        font-weight: 100;
+    }
+}
+@media(max-width:850px){
+    qou p {
+        font-weight: 100;
+        width: 30%;
+        margin-left: 4%;
+        margin-top: -31%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    retu h5 {
+        margin-left: 30%;
+        margin-top: -5%;
+        font-weight: 100;
+    }
+    .f h5 {
+        margin-left: 20%;
+        margin-top: -5%;
+        font-weight: 100;
+    }
+    .qou p {
+        font-weight: 100;
+        width: 30%;
+        margin-left: 4%;
+        margin-top: -31%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .nuum h5 {
+        position: relative;
+        margin-left: 55%;
+        margin-top: -8%;
+        font-weight: 200;
+        color: red;
+    }
+    .foll h5 {
+        margin-left: 75%;
+        position: relative;
+        margin-top: -9%;
+        font-weight: 200;
+    }
+    .qqw p {
+        position: relative;
+        margin-left: 5%;
+        font-size: 24px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-top: 5%;
+    }
+}
+@media(max-width:750px){
+    .retu h5 {
+        margin-left: 29%;
+        margin-top: -5%;
+        font-weight: 100;
+    }
+    .foll h5 {
+        margin-left: 75%;
+        position: relative;
+        margin-top: -10%;
+        font-weight: 200;
+    }
+}
+@media(max-width:700px){
+    .dv a {
+        margin-left: 25%;
+        color: black;
+        font-size: 9px;
+    }
+    .f h5 {
+        margin-left: 22%;
+        margin-top: -5%;
+        font-weight: 100;
+    }
+}
+@media(max-width:650px){
+    .ccv p {
+        position: relative;
+        margin-left: 41%;
+        font-size: 8vh;
+        margin-top: -29%;
+        transform: rotate(90g);
+        writing-mode: vertical-lr;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgba(219, 52, 52, 0.568);
+    }
+    .nuum h5 {
+        position: relative;
+        margin-left: 55%;
+        margin-top: -10%;
+        font-weight: 200;
+        color: red;
+    }
+    .wri h6 {
+        position: relative;
+        margin-left: 29%;
+        margin-top: -11%;
+        font-size: 12px;
+        font-weight: 200;
+        color: red;
+    }
+    .f h5 {
+        margin-left: 23%;
+        margin-top: -6%;
+        font-weight: 100;
+    }
+    .retu h5 {
+        margin-left: 29%;
+        margin-top: -6%;
+        font-weight: 100;
+    }
+}
+@media(max-width:600px){
+    .foll h5 {
+        margin-left: 75%;
+        position: relative;
+        margin-top: -13%;
+        font-weight: 200;
+    }
+    .foll h5 {
+        margin-left: 75%;
+        position: relative;
+        margin-top: -13%;
+        font-weight: 200;
+    }
+    .retu h5 {
+        margin-left: 30%;
+        margin-top: -6%;
+        font-weight: 100;
+    }
+    .f h5 {
+        margin-left: 24%;
+        margin-top: -6%;
+        font-weight: 100;
+    }
+}
+@media(max-width:550px){
+    .bgrr img {
+        margin-left: 52%;
+        margin-top: -9%;
+        width: 40%;
+    }
+    .nuum h5 {
+        position: relative;
+        margin-left: 55%;
+        margin-top: -12%;
+        font-weight: 200;
+        color: red;
+    }
+    .foll h5 {
+        margin-left: 75%;
+        position: relative;
+        margin-top: -14%;
+        font-weight: 200;
+    }
+    .retu h5 {
+        margin-left: 32%;
+        margin-top: -8%;
+        font-weight: 100;
+    }
+    .f h5 {
+        margin-left: 26%;
+        margin-top: -7%;
+        font-weight: 100;
+    }
+    .retu h5 {
+        margin-left: 33%;
+        margin-top: -7%;
+        font-weight: 100;
+    }
+}
+@media(max-width:450px){
+    .start p {
+        margin-left: 3%;
+        font-size: 29px;
+        font-weight: bold;
+        color: gray;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .bgrr img {
+        margin-left: 52%;
+        margin-top: -26%;
+        width: 40%;
+    }
+
+    .qou p {
+        font-weight: 100;
+        width: 30%;
+        font-size: 66%;
+        margin-left: 4%;
+        margin-top: -31%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .ss img {
+        width: 100%;
+        display: flex;
+        margin-top: 19%;
+    }
+    .dv a {
+        margin-left: 25%;
+        color: black;
+        font-size: 8px;
+    }
+    .nuum h5 {
+        position: relative;
+        margin-left: 55%;
+        margin-top: -15%;
+        font-weight: 200;
+        color: red;
+    }
+    .phone {
+        margin-left: 54%;
+        font-size: 2vh;
+        color: #333;
+        position: relative;
+    }
+    .loog img {
+        margin-left: 5%;
+        width: 13%;
+    }
+    .retu h5 {
+        margin-left: 39%;
+        margin-top: -10%;
+        font-weight: 100;
+    }
+    .f h5 {
+        margin-left: 31%;
+        margin-top: -9%;
+        font-weight: 100;
+    }
+    .retu h5 {
+        margin-left: 39%;
+        margin-top: -9%;
+        font-weight: 100;
+    }
+}
+@media(max-width:300px){
+    .start p {
+        margin-left: 3%;
+        font-size: 19px;
+        font-weight: bold;
+        color: gray;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .ccv p {
+        position: relative;
+        margin-left: 41%;
+        font-size: 6vh;
+        margin-top: -29%;
+        transform: rotate(90g);
+        writing-mode: vertical-lr;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgba(219, 52, 52, 0.568);
+    }
+    .bgrr img {
+        margin-left: 54%;
+        margin-top: -26%;
+        width: 40%;
+    }
+    .qou p {
+        font-weight: 100;
+        width: 30%;
+        font-size: 55%;
+        margin-left: 4%;
+        margin-top: -46%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .loog img {
+        margin-left: 5%;
+        width: 12%;
+    }
+    .wri h6 {
+        position: relative;
+        margin-left: 28%;
+        margin-top: -10%;
+        font-size: 9px;
+        font-weight: 200;
+        color: red;
+    }
+    .dv a {
+        margin-left: 21%;
+        color: black;
+        font-size: 6px;
+    }
+    .nuum h5 {
+        position: relative;
+        margin-left: 55%;
+        margin-top: -17%;
+        font-weight: 200;
+        font-size: 10px;
+        color: red;
+    }
+    .phone {
+        margin-left: 56%;
+        font-size: 8px;
+        color: #333;
+        position: relative;
+    }
+    .foll h5 {
+        margin-left: 76%;
+        position: relative;
+        margin-top: -16%;
+        font-size: 10px;
+        font-weight: 200;
+    }
+    .retu h5 {
+        margin-left: 63%;
+        margin-top: -17%;
+        font-weight: 100;
+    }
+    .f h5 {
+        margin-left: 47%;
+        margin-top: -13%;
+        font-weight: 100;
+    }
+    .retu h5 {
+        margin-left: 63%;
+        margin-top: -13%;
+        font-weight: 100;
+    }
+    .paa p {
+        margin-left: 3%;
+        width: 90%;
+        height: 3%;
+        font-size: 5px;
+        margin-top: 3%;
+    }
+}
